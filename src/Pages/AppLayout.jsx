@@ -1,11 +1,5 @@
-import AppNav from "../Components/AppNav";
-
 function AppLayout() {
-  return (
-    <div>
-      <AppNav />
-    </div>
-  );
+  return <div>appnav</div>;
 }
 
 export default AppLayout;
